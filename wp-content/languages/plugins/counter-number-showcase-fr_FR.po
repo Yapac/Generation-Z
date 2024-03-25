@@ -1,0 +1,632 @@
+# Translation of Plugins - Counter Number - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Counter Number - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-05 09:44:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.6\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Counter Number - Stable (latest release)\n"
+
+#: inc/install/installation.php:244
+msgid "All Browser Compatible"
+msgstr "Compatible avec tous les navigateurs"
+
+#: inc/install/installation.php:243
+msgid "High Priority Support"
+msgstr "Support prioritaire"
+
+#: inc/install/installation.php:242
+msgid "Drag And Drop Builder"
+msgstr "Constructeur par glisser-déposer"
+
+#: inc/install/installation.php:241
+msgid "Border Color Customization"
+msgstr "Personnalisation des couleurs de bordure"
+
+#: inc/install/installation.php:236
+msgid "Section padding/space Customization"
+msgstr "Remplissage de section/personnalisation de l’espace"
+
+#: inc/install/installation.php:235
+msgid "More Color Settings"
+msgstr "Plus de réglages de couleur"
+
+#: inc/install/installation.php:234
+msgid "Widget Option"
+msgstr "Option du widget"
+
+#: inc/install/installation.php:233
+msgid "1000+ Font Awesome Icon Support"
+msgstr "Plus de 1000 icônes Font Awesome"
+
+#: inc/install/installation.php:226
+msgid "500+ Google Fonts"
+msgstr "Plus de 500 polices Google"
+
+#: inc/install/installation.php:225
+msgid "Add Description for counter"
+msgstr "Ajouter une description pour le compteur"
+
+#: inc/install/installation.php:224
+msgid "Parallax Background Section"
+msgstr "Arrière-plan de parallaxe de section"
+
+#: inc/install/installation.php:223
+msgid "Background Color Customization"
+msgstr "Personnalisation de la couleur d’arrière-plan"
+
+#: inc/install/installation.php:217
+msgid "Add Background image For Section"
+msgstr "Ajouter une image d’arrière-plan pour la section"
+
+#: inc/install/installation.php:216
+msgid "Individual Color Scheme"
+msgstr "Schéma de couleurs individuel"
+
+#: inc/install/installation.php:215
+msgid "10+ Columns Layout Styles"
+msgstr "Plus de 10 styles de mises en page par colonnes"
+
+#: inc/install/installation.php:214
+msgid "23+ Design Templates"
+msgstr "Plus de 23 modèles de conception"
+
+#: inc/install/installation.php:208
+msgid "Unlock Advance Features In Pro Version Of Counter Number"
+msgstr "Déverrouiller les fonctionnalités avancées dans la version PRO de Counter Number"
+
+#: inc/install/installation.php:206
+msgid "Buy Counter Number Pro Now"
+msgstr "Acheter Counter Number Pro maintenant"
+
+#: inc/install/installation.php:55
+msgid "Rate the plugin"
+msgstr "Évaluez l’extension"
+
+#: inc/install/installation.php:52
+msgid ". We just need a minute of your time to rate the plugin. Thank you!"
+msgstr ". Nous avons juste besoin d’une minute de votre temps pour évaluer l’extension. Merci !"
+
+#: inc/install/installation.php:52
+msgid "make the plugin better"
+msgstr "améliorer l’extension"
+
+#: inc/install/installation.php:52
+msgid " for a few days and wanted to ask for your help to "
+msgstr " pendant quelques jours et voulait demander votre aide pour "
+
+#: inc/install/installation.php:52
+msgid "Counter Number showcase plugin"
+msgstr "Vitrine de l’extension Counter Numbers"
+
+#: inc/install/installation.php:52
+msgid "Hi! We saw you have been using "
+msgstr "Bonjour ! Nous avons vu que vous utilisiez "
+
+#: inc/admin/settings.php:344
+msgid "Get More 6+ Column Layout In Premium Version"
+msgstr "Obtenez plus de 6 mises en page de colonnes avec PRO"
+
+#: inc/admin/settings.php:341
+msgid "Four Column Layout"
+msgstr "Mise en page 4 colonnes"
+
+#: inc/admin/settings.php:340
+msgid "Three Column Layout"
+msgstr "Mise en page 3 colonnes"
+
+#: inc/admin/settings.php:339
+msgid "Two Column Layout"
+msgstr "Mise en page 2 colonnes"
+
+#: inc/admin/settings.php:338
+msgid "One Column Layout"
+msgstr "Mise en page 1 colonne"
+
+#: inc/admin/settings.php:335
+msgid "Display Column Layout"
+msgstr "Afficher la mise en page par colonne"
+
+#: inc/admin/settings.php:313
+msgid "Display Icon"
+msgstr "Afficher l’icône"
+
+#: inc/admin/settings.php:306
+msgid "Get 500+ Google Fonts In Premium Version"
+msgstr "Obtenez plus de 500 polices Google en version PRO"
+
+#: inc/admin/settings.php:293
+msgid "Counter Number/Title Font Weight"
+msgstr "Graisse de police du titre/nombre du compteur"
+
+#: inc/admin/settings.php:284
+msgid "Title Font Size"
+msgstr "Taille de la police du titre"
+
+#: inc/admin/settings.php:277
+msgid "Counter Number Font Size"
+msgstr "Taille de police de nombre du compteur"
+
+#: inc/admin/settings.php:270
+msgid "Icon Size"
+msgstr "Taille de l’icône"
+
+#: inc/admin/more-pro.php:661
+msgid "Service Showcase Pro"
+msgstr "Service Pro"
+
+#: inc/admin/more-pro.php:643
+msgid "Tabs Pro"
+msgstr "Onglets Pro"
+
+#: inc/admin/more-pro.php:626
+msgid "Accordion Pro"
+msgstr "Accordéon Pro"
+
+#: inc/admin/more-pro.php:609
+msgid "Coming Soon Pro"
+msgstr "Bientôt disponible Pro"
+
+#: inc/admin/more-pro.php:592
+msgid "Testimonial Pro"
+msgstr "Témoignage PRO"
+
+#: inc/admin/more-pro.php:581 inc/admin/more-pro.php:597
+#: inc/admin/more-pro.php:613 inc/admin/more-pro.php:631
+#: inc/admin/more-pro.php:648 inc/admin/more-pro.php:666
+#: inc/install/installation.php:206
+msgid "View Demo"
+msgstr "Voir la démo"
+
+#: inc/admin/more-pro.php:580 inc/admin/more-pro.php:596
+#: inc/admin/more-pro.php:612 inc/admin/more-pro.php:630
+#: inc/admin/more-pro.php:647 inc/admin/more-pro.php:665
+msgid "Check Detail"
+msgstr "Vérifier les détails"
+
+#: inc/admin/more-pro.php:576
+msgid "Team Pro"
+msgstr "Membre d’équipe PRO"
+
+#: inc/admin/more-pro.php:567
+msgid "Recommended Premium Plugins From Wpshopmart"
+msgstr "Extensions PRO recommandées par WPShopMart"
+
+#: inc/admin/more-pro.php:311
+msgid "By "
+msgstr "Par "
+
+#: inc/admin/more-pro.php:141
+msgid "Recommended Free WordPress Plugins From Wpshopmart"
+msgstr "Extensions WordPress gratuites recommandés par WPShopMart"
+
+#: inc/admin/menu.php:271
+msgid "Update Default Settings"
+msgstr "Mettre à jour les réglages par défaut"
+
+#: inc/admin/menu.php:269
+msgid "Add This Counter Number settings as default setting for new Counterbox"
+msgstr "Ajouter les réglages de ce compteur comme réglages par défaut pour la nouvelle boîte de compteur"
+
+#: inc/admin/menu.php:267
+msgid "Counter Number Default Settings Option"
+msgstr "Réglages des options par défaut du nombre de compteur"
+
+#: inc/admin/menu.php:252
+msgid " tag"
+msgstr " étiquette"
+
+#: inc/admin/menu.php:252
+msgid "Enter Css without "
+msgstr "Saisir les CSS sans "
+
+#: inc/admin/menu.php:250
+msgid "Custom Css"
+msgstr "Css personnalisé"
+
+#: inc/admin/menu.php:234
+msgid "Counter Number Shortcode"
+msgstr "Code court Counter Numbers"
+
+#: inc/admin/menu.php:178
+msgid "Subscribe Us Now"
+msgstr "Abonnez-nous maintenant"
+
+#: inc/admin/menu.php:176
+msgid "Youtube To Grab Free Web design Course & WordPress Help/Tips"
+msgstr "Youtube pour suivre un cours gratuit de conception Web et une aide/conseil WordPress"
+
+#: inc/admin/menu.php:175
+msgid "Follow Us On"
+msgstr "Suivez-nous sur"
+
+#: inc/admin/menu.php:121
+msgid "RATE HERE"
+msgstr "Évaluez ici"
+
+#: inc/admin/menu.php:120
+msgid "Show us some love, If you like our product then please give us some valuable feedback on wordpress"
+msgstr "Si vous aimez notre produit, merci de nous donner quelques commentaires précieux sur WordPress.org"
+
+#: inc/admin/menu.php:119
+msgid "Rate Us"
+msgstr "Merci de nous évaluer"
+
+#: inc/admin/help.php:66
+msgid "Check More Helping Videos"
+msgstr "Voir plus de vidéos d’aide"
+
+#: inc/admin/help.php:65
+msgid "Subscribe Our Channel"
+msgstr "Abonnez-vous à notre chaîne"
+
+#: inc/admin/help.php:60
+msgid "Counter Number documentation"
+msgstr "Documentation Counter Numbers"
+
+#: inc/admin/help.php:57
+msgid "Get Support Here"
+msgstr "Obtenez du support ici"
+
+#: inc/admin/help.php:56
+msgid "If You have any issue then please ask us any time"
+msgstr "Si vous avez un problème, veuillez nous demander à tout moment"
+
+#: inc/admin/help.php:55
+msgid "Get Support Help Here"
+msgstr "Obtenez de l’aide ici"
+
+#: inc/admin/font-family.php:20
+msgid "Verdana"
+msgstr "Verdana"
+
+#: inc/admin/font-family.php:19
+msgid "Trebuchet"
+msgstr "Trebuchet"
+
+#: inc/admin/font-family.php:18
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: inc/admin/font-family.php:17
+msgid "Tahoma"
+msgstr "Tahoma"
+
+#: inc/admin/font-family.php:16
+msgid "Sans-Serif"
+msgstr "Sans Serif"
+
+#: inc/admin/font-family.php:15
+msgid "Sans"
+msgstr "Sans"
+
+#: inc/admin/font-family.php:14
+msgid "Palatino"
+msgstr "Palatino"
+
+#: inc/admin/font-family.php:13
+msgid "OpenSansBold"
+msgstr "OpenSansBold"
+
+#: inc/admin/font-family.php:12
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: inc/admin/font-family.php:11
+msgid "Lucida Grande"
+msgstr "Lucida Grande"
+
+#: inc/admin/font-family.php:10
+msgid "Lucida"
+msgstr "Lucida"
+
+#: inc/admin/font-family.php:9
+msgid "Impact"
+msgstr "Impact"
+
+#: inc/admin/font-family.php:8
+msgid "Helvetica Neue"
+msgstr "Helvetica Neue"
+
+#: inc/admin/font-family.php:7
+msgid "Grande"
+msgstr "Grande"
+
+#: inc/admin/font-family.php:6
+msgid "Georgia"
+msgstr "Géorgie"
+
+#: inc/admin/font-family.php:5
+msgid "Courier New"
+msgstr "Courier New"
+
+#: inc/admin/font-family.php:4
+msgid "Arial Black"
+msgstr "Arial Black"
+
+#: inc/admin/font-family.php:3
+msgid "Arial"
+msgstr "Arial"
+
+#: inc/admin/add-counter-box.php:40
+msgid "Add Counter number"
+msgstr "Ajouter un numéro de compteur"
+
+#: inc/admin/add-counter-box.php:31
+msgid "Pro Templates"
+msgstr "Modèles Pro"
+
+#: inc/admin/add-counter-box.php:26
+msgid "Buy Now"
+msgstr "Acheter maintenant"
+
+#: inc/admin/add-counter-box.php:16 inc/admin/add-counter-box.php:32
+msgid "Check Demo"
+msgstr "Découvrez la démo"
+
+#: inc/admin/add-counter-box.php:15
+msgid "Selected Design"
+msgstr "Conception sélectionnée"
+
+#: inc/admin/add-counter-box.php:10
+msgid "Selected"
+msgstr "Sélectionné"
+
+#: inc/admin/add-counter-box.php:3
+msgid "Counter Design Template"
+msgstr "Modèle de mise en page de compteur"
+
+#: inc/admin/more-pro.php:420
+msgid "Compatible with your version of WordPress"
+msgstr "Compatible avec votre version de WordPress"
+
+#: inc/admin/more-pro.php:416
+msgid "Incompatible with your version of WordPress"
+msgstr "Incompatible avec votre version de WordPress"
+
+#: inc/admin/more-pro.php:412
+msgid "<strong>Untested</strong> with your version of WordPress"
+msgstr "<strong>Non testé</strong> avec votre version de WordPress"
+
+#: inc/admin/more-pro.php:406
+msgid "%s download"
+msgid_plural "%s downloads"
+msgstr[0] "Téléchargement de %s"
+msgstr[1] "%s téléchargements"
+
+#: inc/admin/more-pro.php:401
+msgid "Last Updated:"
+msgstr "Dernière mise à jour :"
+
+#: inc/admin/more-pro.php:333 inc/admin/more-pro.php:343
+#: inc/admin/more-pro.php:353 inc/admin/more-pro.php:363
+#: inc/admin/more-pro.php:373 inc/admin/more-pro.php:383
+msgid "Visit Website"
+msgstr "Visiter le site"
+
+#: inc/admin/more-pro.php:330 inc/admin/more-pro.php:340
+#: inc/admin/more-pro.php:350 inc/admin/more-pro.php:360
+#: inc/admin/more-pro.php:370 inc/admin/more-pro.php:380
+msgid "Premium Editions"
+msgstr "Éditions Pro"
+
+#: inc/admin/more-pro.php:288
+msgctxt "plugin"
+msgid "Installed"
+msgstr "Installés"
+
+#: inc/admin/more-pro.php:288
+msgid "This plugin is already installed and is up to date"
+msgstr "Cette extension est déjà installé et à jour"
+
+#. translators: 1: Plugin name and version
+#: inc/admin/more-pro.php:283
+msgid "Update Now"
+msgstr "Mettre à jour maintenant"
+
+#. translators: 1: Plugin name and version.
+#: inc/admin/more-pro.php:276
+msgid "Install Now"
+msgstr "Installer maintenant"
+
+#. translators: 1: Plugin name and version.
+#: inc/admin/more-pro.php:265
+msgid "More Details"
+msgstr "Plus de détails"
+
+#. translators: 1: The rating
+#: inc/admin/more-pro.php:198
+msgid "%s rating"
+msgstr "%s évaluation"
+
+#. translators: 1: The rating, 2: The number of ratings
+#: inc/admin/more-pro.php:194
+msgid "%1$s rating based on %2$s rating"
+msgid_plural "%1$s rating based on %2$s ratings"
+msgstr[0] "%1$s évaluation basée sur %2$s évaluation"
+msgstr[1] "%1$s évaluation basée sur %2$s évaluations"
+
+#: inc/install/installation.php:63
+msgid "Upgrade To Counter Number Pro Plugin"
+msgstr "Mise à niveau vers l’extension Counter Number PRO"
+
+#: inc/install/installation.php:57
+msgid "I already did"
+msgstr "Je l’ai déjà fait"
+
+#: inc/install/installation.php:56
+msgid "Nope, maybe later"
+msgstr "Peut-être plus tard"
+
+#: inc/install/installation.php:53
+msgid "~ wpshopmart"
+msgstr "~ WPShopMart"
+
+#: inc/admin/menu.php:235
+msgid "Use below shortcode in any Page/Post to publish your Colorbox"
+msgstr "Utiliser le code court ci-dessous dans une page/publication pour afficher le compteur"
+
+#: inc/admin/menu.php:67
+msgid "More Pro Plugin From Wpshopmart"
+msgstr "Plus d’extensions Pro par WPShopMart"
+
+#: inc/admin/menu.php:65
+msgid "Help From Wpshopmart"
+msgstr "Aide de WPShopMart"
+
+#: inc/admin/menu.php:64
+msgid "Counter box Shortcode"
+msgstr "Code court de la boîte de compteur"
+
+#: inc/admin/menu.php:63
+msgid "Add Counter Box"
+msgstr "Ajouter une boîte de compteur"
+
+#: inc/admin/menu.php:60 inc/admin/settings.php:215
+msgid "Counter Settings"
+msgstr "Réglages du compteur"
+
+#: inc/admin/menu.php:61
+msgid "Rate Us If You Like This Plugin"
+msgstr "Évaluez-nous si vous aimez l’extension"
+
+#: inc/admin/menu.php:59
+msgid "Get Support"
+msgstr "Obtenir du support"
+
+#: inc/admin/menu.php:43
+msgid "Date"
+msgstr "Date"
+
+#: inc/admin/menu.php:42
+msgid "Counter Shortcode"
+msgstr "Code court du compteur"
+
+#: inc/admin/menu.php:41
+msgid "Counterbox"
+msgstr "Boîte de compteur"
+
+#: inc/admin/cpt-reg.php:16
+msgid "No Counter found in Trash"
+msgstr "Aucun compteur trouvé dans la corbeille"
+
+#: inc/admin/cpt-reg.php:15
+msgid "No Counter Found"
+msgstr "Aucun compteur trouvé"
+
+#: inc/admin/cpt-reg.php:14
+msgid "Search Counters"
+msgstr "Rechercher un compteur"
+
+#: inc/admin/cpt-reg.php:13
+msgid "Update Counters"
+msgstr "Mettre à jour les compteurs"
+
+#: inc/admin/cpt-reg.php:12
+msgid "Edit Counter"
+msgstr "Modifier le compteur"
+
+#: inc/admin/cpt-reg.php:10 inc/admin/cpt-reg.php:11
+msgid "Add New Counter"
+msgstr "Ajouter un nouveau compteur"
+
+#: inc/admin/cpt-reg.php:9
+msgid "View counters"
+msgstr "Voir les compteurs"
+
+#: inc/admin/cpt-reg.php:8
+msgid "All counters"
+msgstr "Tous les compteurs"
+
+#: inc/admin/cpt-reg.php:7
+msgid "Parent Item:"
+msgstr "Parent de l’article :"
+
+#: inc/admin/cpt-reg.php:6 inc/admin/cpt-reg.php:19 inc/admin/cpt-reg.php:20
+msgid "Counter Numbers "
+msgstr "Counter Numbers "
+
+#: inc/admin/cpt-reg.php:5
+msgctxt "Counter Numbers "
+msgid "Counter Numbers "
+msgstr "Counter Numbers "
+
+#: inc/admin/cpt-reg.php:4
+msgctxt "Counter Numbers "
+msgid "Counter Numbers"
+msgstr "Counter Numbers"
+
+#: inc/admin/settings.php:327
+msgid "Show Icon"
+msgstr "Afficher l’icône"
+
+#: inc/admin/settings.php:321
+msgid "No"
+msgstr "Non"
+
+#: inc/admin/settings.php:319
+msgid "Yes"
+msgstr "Oui"
+
+#: inc/admin/settings.php:300
+msgid "Enable Font Family"
+msgstr "Activer la famille de polices"
+
+#: inc/admin/settings.php:254 inc/admin/settings.php:262
+msgid "Counter Number Color"
+msgstr "Couleur du compteur"
+
+#: inc/admin/settings.php:238 inc/admin/settings.php:246
+msgid "Counter Title Color"
+msgstr "Couleur du titre du compteur"
+
+#: inc/admin/settings.php:222 inc/admin/settings.php:230
+msgid "Icon Color"
+msgstr "Couleur de l’icône"
+
+#: inc/admin/add-counter-box.php:122
+msgid "Delete All"
+msgstr "Tout supprimer"
+
+#: inc/admin/add-counter-box.php:118
+msgid "Add New Counterbox"
+msgstr "Ajouter une nouvelle boîte de compteur"
+
+#: inc/admin/add-counter-box-js-footer.php:13 inc/admin/add-counter-box.php:80
+#: inc/admin/add-counter-box.php:105
+msgid "Counter Number Value"
+msgstr "Valeur Counter Numbers"
+
+#: inc/admin/add-counter-box-js-footer.php:8 inc/admin/add-counter-box.php:75
+#: inc/admin/add-counter-box.php:100
+msgid "Select Counter Icon"
+msgstr "Sélectionnez l’icône du compteur"
+
+#: inc/admin/add-counter-box-js-footer.php:6 inc/admin/add-counter-box.php:73
+#: inc/admin/add-counter-box.php:98
+msgid "Counter Title"
+msgstr "Titre du compteur"
+
+#. Author URI of the plugin
+msgid "https://www.wpshopmart.com"
+msgstr "https://www.wpshopmart.com"
+
+#. Author of the plugin
+msgid "wpshopmart"
+msgstr "WPShopMart"
+
+#. Description of the plugin
+msgid "counter number showcase plugin is used to display counter number on blog and post page."
+msgstr "vitrine de l’extension Counter Number est utilisé pour afficher le compteur sur le blog et la page de publication."
+
+#. Plugin URI of the plugin
+msgid "https://www.wpshopmart.com/plugins/"
+msgstr "https://www.wpshopmart.com/plugins/"
+
+#. Plugin Name of the plugin
+msgid "Counter Number Showcase"
+msgstr "Vitrine Counter Numbers"
